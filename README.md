@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there! I'm Kelly Natalia
 
-<!--
-**kelinatalia/kelinatalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+🎓 I'm an undergraduate Data Science major at BINUS University  
+🔍 Passionate about exploring various fields in data and constantly eager to learn new things to expand my knowledge  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 About Me
+
+* 📊 Curious about how data can be used to solve real-world problems and drive better decisions.
+* 🛠️ Enjoy working on hands-on data projects, from data analysis and visualization to building practical solutions.
+* 🌱 Always eager to explore new technologies, tools, and methodologies to broaden my technical skill set.
+* 💡 Open to internship opportunities, freelance work, and collaborative projects in the data field.
+* ⛸️ Fun fact: I can glide on ice pretty smoothly!
