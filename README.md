@@ -50,7 +50,6 @@
 ![DecisionTree](https://img.shields.io/badge/-Decision%20Tree-8B4513?style=for-the-badge)
 ![SVM](https://img.shields.io/badge/-SVM-6A5ACD?style=for-the-badge)
 ![KNN](https://img.shields.io/badge/-KNN-20B2AA?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=for-the-badge&logoColor=black)
 ![ANN](https://img.shields.io/badge/-ANN-FF4500?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/-CNN-FF6347?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/-LSTM-DC143C?style=for-the-badge)
