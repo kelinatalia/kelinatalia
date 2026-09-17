@@ -71,15 +71,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kelinatalia&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelinatalia&layout=compact&theme=radical" height="165"/>
-</div>
-
----
-
 ### 📫 Let's Connect
 
 📧 Email: keliinataliaa@gmail.com  
