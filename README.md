@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi there! I'm Kelly Natalia
 
 </div>
