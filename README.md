@@ -36,5 +36,5 @@ Git · GitHub · VS Code · Jupyter Notebook · Google Colab · Docker · MySQL 
 ### 📫 Let's Connect
 
 📧 Email: keliinataliaa@gmail.com  
-💼 LinkedIn: [Kelly Natalia](www.linkedin.com/in/kelly-natalia-6447b5325)  
+💼 LinkedIn: [Kelly Natalia](https://www.linkedin.com/in/kelly-natalia-6447b5325)  
 📸 Instagram: [@natalia._.kelly](https://www.instagram.com/natalia._.kelly)
