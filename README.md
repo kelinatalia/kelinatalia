@@ -73,5 +73,5 @@
 ### 📫 Let's Connect
 
 📧 Email: keliinataliaa@gmail.com  
-💼 LinkedIn: [Kelly Natalia](https://linkedin.com/in/...)  
+💼 LinkedIn: [Kelly Natalia](https://www.linkedin.com/in/kelly-natalia-6447b5325/)  
 📸 Instagram: [@natalia._.kelly](https://instagram.com/natalia._.kelly)
